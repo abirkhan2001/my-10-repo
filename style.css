@@ -1,0 +1,7 @@
+.part{
+    display: inline-flex;
+}
+.style{
+    background-color: white;
+    width: 50%;
+}
